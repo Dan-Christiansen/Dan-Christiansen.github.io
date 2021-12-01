@@ -4,13 +4,12 @@ title: "My Research Profile"
 author: "DC"
 categories: documentation
 tags: [documentation,sample]
-image: arctic-1.jpg
 ---
 
-Publications
+# Journal Articles
 
-Presentations
+# Conference Publications
 
-Videos
+# Teaching & Lectures
 
-Tutorials
+# Other Presentations
