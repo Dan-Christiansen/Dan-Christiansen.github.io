@@ -4,6 +4,7 @@ title: "My Research Profile"
 author: "DC"
 categories: documentation
 tags: [documentation,sample]
+image: DC.jpg
 ---
 
 ## **Journal Articles**
