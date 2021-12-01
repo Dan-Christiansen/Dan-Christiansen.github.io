@@ -11,6 +11,7 @@ tags: [documentation,sample]
 3. H. Wang, X. Liu, **D. E. Christiansen**, S. Fattahpour, K. Wang, H. Song, S. Mehraeen, G. Cheng, _Thermoplastic polyurethane with controllable degradation and critical anti-fouling properties_, Biomaterials Science, 9, 2021.[[<span style="color:red">Link</span>](https://pubs.rsc.org/en/content/articlelanding/2021/bm/d0bm01967d)]
 2. H. Wang, **D. E. Christiansen**, S. Mehraeen, G. Cheng, _Winning the fight against biofilms: the first six-month study showing no biofilm formation on zwitterionic polyurethanes_, Chemical Science, 11, 2020.[[<span style="color:red">Link</span>](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06155j)]
 1. **D. E. Christiansen**, S. Mehraeen, _Impact of active layer morphology, density of states, charge carrier concentration, and local charge density fluctuations on bimolecular recombination of bulk heterojunction solar cells: A theoretical perspective_, IntechOpen, ISBN: 978-1-78984-742-0, 2019.[[<span style="color:red">Link</span>](https://www.intechopen.com/chapters/66902)]
+{: reversed="reversed"}
 
 ### **Conference Publications**
 6. S. Mukhopadhyay, **D. E. Christiansen**, H. Chao, J. Claracq, F. Aguirre-Vargas, P. Cookson, B. Shuang, A. Schmidt, K. Torkelson, R. Venkatesh, X. Yu, _Machine Learning Approaches to Predict Density and Resiliency of Polyurethane Flexible Foams_, Industry 4.0 Topical Conference, 2020.
