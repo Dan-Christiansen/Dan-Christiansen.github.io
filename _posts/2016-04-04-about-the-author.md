@@ -4,7 +4,7 @@ title: "About me"
 author: "Daniel Christiansen"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: DC.jpg
 ---
 
 Hello!
