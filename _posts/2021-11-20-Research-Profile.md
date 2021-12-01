@@ -26,8 +26,3 @@ tags: [documentation,sample]
 * Mathematical Methods for Chemical Engineers TA, Fall 2019
 * Chemical Process Control TA, Spring 2019, Spring 2020
 * Chemical Engineering Thermodynamics TA, Fall 2018
-
-### **Other Presentations**
-3. Visual Molecular Dynamics for Research Writing Symposium - Dept. of Chemical Engineering, University of Illinois at Chicago, IL (2019)
-2. STEM Career Conversations - James Wilson Young Middle School, Science Research classes, NY (2019)
-1. STEM Career Conversations - Norwood-Norfolk High School, AP Biology/Advanced Chemistry classes, NY (2019)
