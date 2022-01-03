@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about
+image: DC.jpg
 ---
 
 Hello!
