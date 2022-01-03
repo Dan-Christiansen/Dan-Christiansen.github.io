@@ -3,8 +3,7 @@ layout: post
 title: "About me"
 author: "Daniel Christiansen"
 categories: facts
-tags: [sample]
 image: DC.jpg
 ---
 
-Stay tuned!
+Please contact me through email at danchristiansen1 AT gmail DOT com.

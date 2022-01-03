@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-Coming soon.
+Please contact me through email at danchristiansen1 AT gmail DOT com.

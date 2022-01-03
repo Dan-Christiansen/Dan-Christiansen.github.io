@@ -31,7 +31,7 @@ PhD Candidate at the University of Illinois at Chicago studying artificial intel
 
 ## **Teaching**
 * Polymer Science TA, Spring 2021
-* Numerical Methods, Spring 2019, Spring 2020, Spring 2021
+* Numerical Methods TA, Spring 2019, Spring 2020, Spring 2021
 * Mathematical Methods for Chemical Engineers TA, Fall 2019
 * Chemical Process Control TA, Spring 2019, Spring 2020
 * Chemical Engineering Thermodynamics TA, Fall 2018
