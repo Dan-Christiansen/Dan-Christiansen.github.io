@@ -20,7 +20,7 @@ menu:
 social:
 # - {icon: 'twitter', link:    'https://twitter.com/paululele'}
 - {icon: 'github', link:    'https://github.com/Dan-Christiansen'}
-- {icon: 'linkedin', link:    'www.linkedin.com/in/danchristiansen1'}
+- {icon: 'linkedin', link:    'https://www.linkedin.com/in/danchristiansen1'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 # - {icon: 'instagram', link:  'https://instagram.com/paululele'}
 # - {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
