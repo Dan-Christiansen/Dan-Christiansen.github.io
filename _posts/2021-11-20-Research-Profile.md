@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "My Research Profile"
 author: "DC"
 categories: documentation
