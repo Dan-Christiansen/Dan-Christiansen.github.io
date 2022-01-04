@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About Me
+layout: test_main
+title: Test Page
 permalink: /test
-image: DC.jpg
 ---
 
 This is a test page
