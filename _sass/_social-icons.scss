@@ -25,12 +25,12 @@
 }
 
 .fa-github {
-  padding: 5px;
+  padding: 0px;
   @include social-media-icon($github-color, $icon-transition-time);
 }
 
 .fa-linkedin {
-  padding: 5px;
+  padding: 0px;
   @include social-media-icon($linkedin-color, $icon-transition-time);
 }
 
