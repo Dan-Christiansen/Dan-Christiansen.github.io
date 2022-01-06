@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-04-25
 venue: 'Biomaterials Science'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2021/bm/d0bm01967d'
-citation: 'H. Wang, X. Liu, <b>D. E. Christiansen<\b>, S. Fattahpour, K. Wang, H. Song, S. Mehraeen, G. Cheng, <i>Thermoplastic polyurethane with controllable degradation and critical anti-fouling properties<\i>, Biomaterials Science, 9, 2021.'
+citation: 'H. Wang, X. Liu, D. E. Christiansen, S. Fattahpour, K. Wang, H. Song, S. Mehraeen, G. Cheng, Thermoplastic polyurethane with controllable degradation and critical anti-fouling properties, Biomaterials Science, 9, 2021.'
 ---
 
 [Download paper here](https://pubs.rsc.org/en/content/articlelanding/2021/bm/d0bm01967d)

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-04-25
 venue: 'Chemical Science'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06155j'
-citation: 'H. Wang, <b>D. E. Christiansen<\b>, S. Mehraeen, G. Cheng, <i>Winning the fight against biofilms: the first six-month study showing no biofilm formation on zwitterionic polyurethanes<\i>, Chemical Science, 11, 2020.'
+citation: 'H. Wang, D. E. Christiansen, S. Mehraeen, G. Cheng, Winning the fight against biofilms: the first six-month study showing no biofilm formation on zwitterionic polyurethanes, Chemical Science, 11, 2020.'
 ---
 
 [Download paper here](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06155j)
