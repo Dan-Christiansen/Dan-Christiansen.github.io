@@ -1,5 +1,5 @@
 ---
-title: "Hydration and ion interactions of zwitterionic homopolymers with varying carbon spacer lengths"
+title: "(in review) Hydration and ion interactions of zwitterionic homopolymers with varying carbon spacer lengths"
 collection: publications
 permalink: /publication/2021-Ion-Association-Linear-Polymer
 excerpt: ''
