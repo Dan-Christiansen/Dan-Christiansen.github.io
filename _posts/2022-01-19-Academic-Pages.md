@@ -20,12 +20,11 @@ The title of the sections within this file must match some filename within `_pag
 Write blog posts by creating a file with the naming convention 'YYYY-MM-DD-Title.md'
 
 Within this file, include the following header section at the top of the file with details replaced
-```
----
-title: 'Title'
-date: YYYY-MM-DD
-permalink: /posts/YYYY/MM/Title/
-tags:
- - Tags...
----
-```
+
+> ---\
+> title: 'Title'\
+> date: YYYY-MM-DD\
+> permalink: /posts/YYYY/MM/Title/\
+> tags:\
+>  - Tags...\
+> ---
