@@ -36,3 +36,9 @@ tags:
 
 ## Markdown
 Use the [Markdown Guide "Markdown Cheat](https://www.markdownguide.org/cheat-sheet/) Sheet" for quick reference.
+
+Most useful notes:
+* Comment with `<!--` to begin commment and `-->` to close.
+* Place a horizontal rule with `***`, `---`, or `___`
+* Bold font with `**` before and after the text
+* Italicize with `_` before and after the text
