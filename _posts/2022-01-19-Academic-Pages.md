@@ -27,6 +27,8 @@ title: 'Title'
 date: YYYY-MM-DD
 permalink: /posts/YYYY/MM/Title/
 tags:
- - Tags...
+ - Tag1
+ - Tag2
+ - ...
 ---
 ```
