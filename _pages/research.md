@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
+Current PhD Candidate in Chemical Engineering attending the University of Illinois at Chicago, studying generative material design under Shafigh Mehraeen and Gang Cheng in the [Molecular Simulations Laboratory](tranzabi.people.uic.edu). In my work, I perform multiscale computational simulations of polymers with the intent of understanding how molecular features influence macroscopic properties. This understanding enables me to best design artificial intelligence tools for accelerated next-generation material design.
+
 ## Publications
 
 ---
