@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
-# Publications
+## Publications
 
 4\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Hydration and ion interactions of zwitterionic homopolymers with varying carbon spacer lengths", Chemical Engineering Journal, (_in-review_), 2021.
 
@@ -25,7 +25,7 @@ author_profile: true
 
 1\. **D. E. Christiansen**, S. Mehraeen, "Impact of active layer morphology, density of states, charge carrier concentration, and local charge density fluctuations on bimolecular recombination of bulk heterojunction solar cells: A theoretical perspective", [_IntechOpen_](https://www.intechopen.com/chapters/66902), ISBN: 978-1-78984-742-0, 2019.
 
-# Presentations & Posters
+## Presentations & Posters
 
 6\. S. Mukhopadhyay, **D. E. Christiansen**, H. Chao, J. Claracq, F. Aguirre-Vargas, P. Cookson, B. Shuang, A. Schmidt, K. Torkelson, R. Venkatesh, X. Yu, _Machine Learning Approaches to Predict Density and Resiliency of Polyurethane Flexible Foams_, Industry 4.0 Topical Conference, 2020.
 
