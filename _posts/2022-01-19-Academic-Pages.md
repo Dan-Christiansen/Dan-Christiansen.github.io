@@ -4,6 +4,7 @@ date: 2022-01-19
 permalink: /posts/2022/01/Academic-Pages/
 tags:
   - Academic Pages
+  - tutorials
 ---
 
 Notes on modifying the [Academic Pages](https://academicpages.github.io/) template to fit my personal website needs.
@@ -32,3 +33,6 @@ tags:
  - ...
 ---
 ```
+
+## Markdown
+Use the [Markdown Guide "Markdown Cheat](https://www.markdownguide.org/cheat-sheet/) Sheet" for quick reference.
