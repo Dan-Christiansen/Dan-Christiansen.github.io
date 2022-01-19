@@ -16,29 +16,24 @@ Education
 
 Work experience
 ======
-* **Graduate Research Scientist (2018-Present)**
-  * University of Illinois at Chicago, Supervised by Shafigh Mehraeen, PhD, and Gang Cheng, PhD
+* **Graduate Research Scientist (2018-Present)** - University of Illinois at Chicago, Supervised by Shafigh Mehraeen, PhD, and Gang Cheng, PhD
   * Conducted dissertation research on ionic conductivity, antifouling, and mechanical strength of zwitterionic polymers using computational simulations and artificial intelligence techniques for material design and property prediction
   * Received the Graduate Student Research Award from the University of Illinois at Chicago
   * Mentored several undergaduate students as part of UIC Guaranteed Paid Internship Program
 
-* **Graduate Intern (Summer 2021)**
-  * Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Will Koonce
+* **Graduate Intern (Summer 2021)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Will Koonce
   * Developed theory-based models and identified cheminformatic descriptors for input to predictive intelligence models, resulting in improved accuracy for all models
   * Created a uniform data structure for chemical identification and programmed descriptor calculations using open-source software which may be included in existing architectures
   * Worked with co-interns to schedule, organize, and present monthly progress updates for corporate sponsors
 
-* **Undergraduate Research Assistant (Spring 2016-Spring 2018)**
-  * Tulane University Chemical and Biomolecular Engineering Department, Supervised by Julie N. L. Albert, PhD
+* **Undergraduate Research Assistant (Spring 2016-Spring 2018)** - Tulane University Chemical and Biomolecular Engineering Department, Supervised by Julie N. L. Albert, PhD
   *
 
-* **Undergraduate Research Assistant (Summer 2017)**
-  * SMART REU, Louisiana State University Department of Chemistry, Supervised by John A. Pojman, PhD
+* **Undergraduate Research Assistant (Summer 2017)** - SMART REU, Louisiana State University Department of Chemistry, Supervised by John A. Pojman, PhD
   * Designed experimental methods, material synthesis and characterization techniques for the design of fast-curing polyethers
   * Found a novel epoxy resin which was UV and thermally set-on-demand, curing in seconds
 
-* **Undergraduate Intern (Summer 2016)**
-  * Summer Undergraduate Laboratory Internship, Brookhaven National Laboratory, Biology and Climate Science Department, Supervised by John Heiser
+* **Undergraduate Intern (Summer 2016)** - Summer Undergraduate Laboratory Internship, Brookhaven National Laboratory, Biology and Climate Science Department, Supervised by John Heiser
   * Designed a low-cost, microcontrolled datalogger for deployment with a large-area dispersed solar sensor array
     * Responsible for programming, circuit design, testing and validation, and product durability testing
     * Final design evaluated to be 97% accurate compared to research-grade, while only 3% of the cost
@@ -88,11 +83,11 @@ Service, leadership, and professional affiliations
   * Mentor of the Semester, Fall 2018
 * American Institute of Chemical Engineers
 * Order of the Engineers
-*
+* National Eagle Scout Association
 
 Awards
 ======
 * Award for Graduate Research, University of Illinois at Chicago, 2020
-* Silver Award - Venturing, BSA, 2014
-* Eagle Scout Honor - Boy Scouts of America, 2014
-* Dean's Grant, Tulane University
+* Dean's Grant, Tulane University, 2017
+* Silver Award, Venturing, BSA, 2014
+* Eagle Scout Honor, Boy Scouts of America, 2014
