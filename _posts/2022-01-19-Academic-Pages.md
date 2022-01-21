@@ -42,3 +42,10 @@ Most useful notes:
 * Place a horizontal rule with `***`, `---`, or `___`
 * Bold font with `**` before and after the text
 * Italicize with `_` before and after the text
+
+## Adding a 'Favicon' - Browser tab image
+Add the following to the `head` of `default.html`
+```
+<link rel="icon" href="/images/filename.extension">
+```
+where `filename` and `extension` are replaced by the corresponding fields of the image for the favicon. The `/` before `images/filename.extension` is important. Without this, the favicon will only be applied to the home page
