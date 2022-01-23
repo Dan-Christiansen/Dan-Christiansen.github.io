@@ -27,7 +27,7 @@ Work experience
   * Worked with co-interns to schedule, organize, and present monthly progress updates for corporate sponsors
 
 * **Undergraduate Research Assistant (Spring 2016-Spring 2018)** - Tulane University Chemical and Biomolecular Engineering Department, Supervised by Julie N. L. Albert, PhD
-  *
+  * Performed raster solvent vapor annealing on semicrystalline homopolymer thick films to induce change in optical and mechanical properties
 
 * **Undergraduate Research Assistant (Summer 2017)** - SMART REU, Louisiana State University Department of Chemistry, Supervised by John A. Pojman, PhD
   * Designed experimental methods, material synthesis and characterization techniques for the design of fast-curing polyethers
