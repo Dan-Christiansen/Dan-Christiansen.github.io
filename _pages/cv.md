@@ -42,7 +42,7 @@ Work experience
 Skills
 ======
 * **_Data Science_**: Artificial intelligence and machine learning algorithms, statistical analysis practices, web scraping and data retrieval, experience with large datasets
-* **_Chemical modeling_**: GROMACS molecular dynamics, Gaussian 16 quantum chemistry, Visual Molecular Dynamics (VMD), ASPEN Plus/Properties/HYSYS
+* **_Chemical modeling_**: GROMACS molecular dynamics, LAMMPS, Gaussian 16 quantum chemistry, Visual Molecular Dynamics (VMD), ASPEN Plus/Properties/HYSYS
 * **_Polymer science and wet lab_**: Synthesis and characterization of organic polymers. Tensile and compression testing, optical and atomic force microscopy
 * **_Data Science_**: Artificial intelligence and machine learning algorithms, statistical analysis practices, web scraping and data retrieval, experience with large datasets
 * **_Programming_**: MATLAB, Python, VBA, C/C++, Tcl, BASH, perl, Jupyter
@@ -70,6 +70,22 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
+Teaching Assistantships
+======
+* Undergraduate courses
+  * Introduction to Thermodynamics
+  * Chemical Engineering Thermodynamics
+  * Computational Methods in Chemical Engineering
+  * Process Control
+* Graduate courses
+  * Process Simulation with ASPEN Plus
+  * Graduate Numerical Methods in Chemical Engineering
+  * Graduate Mathematical Methods for Chemical Engineers
+
+<!--
+Presentations
+======
 -->
 
 Service, leadership, and professional affiliations
