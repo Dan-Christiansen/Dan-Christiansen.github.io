@@ -78,11 +78,12 @@ Teaching Assistantships
   * Introduction to Thermodynamics
   * Chemical Engineering Thermodynamics
   * Computational Methods in Chemical Engineering
+  * Polymer Science
   * Process Control
 * Graduate courses
   * Process Simulation with ASPEN Plus
-  * Graduate Numerical Methods in Chemical Engineering
-  * Graduate Mathematical Methods for Chemical Engineers
+  * Numerical Methods in Chemical Engineering
+  * Mathematical Methods for Chemical Engineers
 
 <!--
 Presentations
