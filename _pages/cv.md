@@ -46,8 +46,8 @@ Skills
 * **_Polymer science and wet lab_**: Synthesis and characterization of organic polymers. Tensile and compression testing, optical and atomic force microscopy
 * **_Data Science_**: Artificial intelligence and machine learning algorithms, statistical analysis practices, web scraping and data retrieval, experience with large datasets
 * **_Programming_**: MATLAB, Python, VBA, C/C++, Tcl, BASH, perl, Jupyter
-* **_Python modules_**: Scikit-Learn, pandas, numpy, orange3, multiprocessing
-* **_Cheminformatics_**: Mordred, RDKit, OpenBabel, JCHEM, SciFinder
+* **_Python modules_**: Scikit-Learn, pandas, numpy, orange3, multiprocessing, scipy
+* **_Cheminformatics_**: Mordred, RDKit, OpenBabel, JCHEM, SciFinder, AlvaDesk
 * **_Multiprocessing and acceleration_**: TORQUE PBS, HTCondor, GPU acceleration, hardware construction for distributed and parallel systems
 * **_Soft Skills_**: Technical writing, editing, teaching, presenting, data management and visualization, grant and resume writing, leadership of non- and for-profit organizations
 * **_Coursework_**: Polymer science, Nanotechnology, Machine Learning, Data Science, Artificial Intelligence, Numerical Analysis (Finite Differences, Elements, and Volumes), Process Control, Advanced Thermodynamics, Fluid Dynamics, Colloid Interfacial Phenomenon, Data Management, Technical Writing
@@ -71,6 +71,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+
 Teaching Assistantships
 ======
 * Undergraduate courses
