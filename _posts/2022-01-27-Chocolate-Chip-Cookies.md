@@ -8,7 +8,7 @@ tags:
   - tutorials
 ---
 
-Found this recipe in a reddit post some years ago and only have a screenshot of it now. Best chocolate chip cookies I can make
+Added some notes to the [Host The Toast recipe](https://hostthetoast.com/best-chewy-cafe-style-chocolate-chip-cookies/#tasty-recipes-9463-jump-target)
 
 ## Equipment
 * 2 medium or large bowls (1 if using a mixer with a bowl)
@@ -20,7 +20,7 @@ Found this recipe in a reddit post some years ago and only have a screenshot of 
 
 ## Ingredients
 *Dry*
-* 2 cups + 2 tablespoons all purpose flour
+* 2 cups and 2 tablespoons all purpose flour
 * 1 teaspoon baking *soda*
 * 2 teaspoons cornstarch
 * 1 teaspoon salt
