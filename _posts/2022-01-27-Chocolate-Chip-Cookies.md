@@ -10,6 +10,14 @@ tags:
 
 Found this recipe in a reddit post some years ago and only have a screenshot of it now. Best chocolate chip cookies I can make
 
+## Equipment
+* 2 medium or large bowls (1 if using a mixer with a bowl)
+* Large spoon or paddle
+* Whisk (optional)
+* Standup or hand mixer (optional)
+* Baking tray
+* Parchment paper (optional)
+
 ## Ingredients
 *Dry*
 * 2 cups + 2 tablespoons all purpose flour
@@ -23,14 +31,6 @@ Found this recipe in a reddit post some years ago and only have a screenshot of 
 * &half; cup granulated sugar
 * 2 large eggs
 * 2 teaspoons vanilla extract
-
-*Equipment*
-* 2 medium or large bowls (1 if using a mixer with a bowl)
-* Large spoon or paddle
-* Whisk (optional)
-* Standup or hand mixer (optional)
-* Baking tray
-* Parchment paper (optional)
 
 ## Comments
 * *Immediately melt the butter so it will have time to cool*
