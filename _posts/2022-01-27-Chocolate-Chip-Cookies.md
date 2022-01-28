@@ -37,8 +37,7 @@ Found this recipe in a reddit post some years ago and only have a screenshot of 
 * *Make sure your baking soda is fresh*
 
 ## Instructions
-
-
+1. Melt the butter so it has time to cool
 1. Whisk dry ingredients together in a medium-sized bowl
 1. In a separate bowl or mixer bowl, beat together the cooled melted butter and sugars for one minute
 1. Add the eggs and vanilla extract to the bowl of butter and sugars, beat until just combined
