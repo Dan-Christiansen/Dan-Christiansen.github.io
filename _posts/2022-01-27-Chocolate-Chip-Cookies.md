@@ -32,10 +32,12 @@ Found this recipe in a reddit post some years ago and only have a screenshot of 
 * Baking tray
 * Parchment paper (optional)
 
+## Comments
+* *Immediately melt the butter so it will have time to cool*
+* *Make sure your baking soda is fresh*
+
 ## Instructions
-*Comments:*
-* Immediately melt the butter so it will have time to cool
-* Make sure your baking soda is fresh
+
 
 1. Whisk dry ingredients together in a medium-sized bowl
 1. In a separate bowl or mixer bowl, beat together the cooled melted butter and sugars for one minute
