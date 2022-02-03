@@ -19,8 +19,8 @@ tags:
 
 *Unsupervised* feature selection techniques ignore the target variable and remove redundant variables (e.g., by using correlation)
 
-## Checking collinearity with pair plots
-*Pearson's correlation coefficient* (linear) - Also called "correlation coefficient". Describe the correlation between two variables. The correlation coefficient between variables $X$ and $Y$, $\rho$, is
+## Checking collinearity
+*Pearson's correlation coefficient* (linear) - Also called "correlation coefficient", describes the linear correlation between two variables. The correlation coefficient between variables $X$ and $Y$, $\rho$, is
 
 <p style="text-align: center;">$$\rho_{X,Y}=cov(X,Y)/\sigma_X\sigma_Y$$</p>
 
@@ -30,4 +30,10 @@ tags:
 
 $-1\le\rho\le+1$ - The larger the absolute value of $\rho$, the more strongly correlated the two variables are. $\rho=0$ indicates no correlation, i.e., no linear dependence between the variables
 
-*Spearman's rank coefficient* (nonlinear) -
+*Spearman's (rank) correlation coefficient* (nonlinear) - A measure of monotonicity between linear **or** nonlinear variable. It is the Pearson correlation coefficient between the rank variables. Spearman's correlation coefficient, $\rho_{R(X),R(Y)}$ or $r_s$, is calculated as
+
+<p style="text-align: center;">$$\rho_{R(X),R(Y)}=r_s=cov(R(X),R(Y))/\sigma_{R(X)}\sigma_{R(Y)}$$</p>
+
+* $\rho$ is the Pearson correlation coefficient applied to the rank variables
+* $cov(R(X),R(Y))$ is the covariance of the rank variables
+* $\sigma_{R(X)} and \sigma_{R(Y)}$ are the standard deviations of the rank variables
