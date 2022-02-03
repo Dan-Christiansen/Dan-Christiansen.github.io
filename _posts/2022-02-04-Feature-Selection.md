@@ -19,7 +19,12 @@ tags:
 
 *Unsupervised* feature selection techniques ignore the target variable and remove redundant variables (e.g., by using correlation)
 
-## Checking collinearity
+## Checking correlation to determine redundant redundant variables
+Strong correlation between variables may indicate dependent relationships between variables or redundancy. It is best to remove these or reduce the number of them to avoid overfitting.
+
+### Correlation metrics
+Two useful measures of correlation are the *Pearson's correlation coefficient* and *Spearman's rank correlation coefficient*
+
 *Pearson's correlation coefficient* (linear) - Also called "correlation coefficient", describes the linear correlation between two variables. The correlation coefficient between variables $X$ and $Y$, $\rho$, is
 
 <p style="text-align: center;">$$\rho_{X,Y}=cov(X,Y)/\sigma_X\sigma_Y$$</p>
@@ -37,3 +42,6 @@ $-1\le\rho\le+1$ - The larger the absolute value of $\rho$, the more strongly co
 * $\rho$ is the Pearson correlation coefficient applied to the rank variables
 * $cov(R(X),R(Y))$ is the covariance of the rank variables
 * $\sigma_{R(X)} and \sigma_{R(Y)}$ are the standard deviations of the rank variables
+
+## Correlation plots
+Correlation plots are a visual way to represent the correlation matrix, a table showing correlation coefficients between pairs of variables on the X and Y axes
