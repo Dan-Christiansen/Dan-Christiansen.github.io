@@ -53,9 +53,9 @@ Calculate the Spearman's rank correlation coefficient in python with:
 * [scipy.stats.spearmanr](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.spearmanr.html)
 
 Correlation strength is generally understood as
-* *STRONG*   - $0.7\le|\rho|\le1.0$
-* *MODERATE* - $0.3\le|\rho|<0.7$
-* *WEAK*     - $0.0\le|\rho|<0.3$
-
+<p style="text-align: center;">
+*STRONG*\n$0.7\le\|\rho\|\le1.0$\n
+*MODERATE*\n$0.3\le\|\rho\|<0.7$\n
+*WEAK*\n$0.0\le\|\rho\|<0.3$</p>
 ## Correlation plots
 Correlation plots are a visual way to represent the correlation matrix, a table showing correlation coefficients between pairs of variables on the X and Y axes
