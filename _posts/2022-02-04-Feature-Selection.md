@@ -54,15 +54,15 @@ Calculate the Spearman's rank correlation coefficient in python with:
 
 Correlation strength is generally understood as
 <p style="text-align: center;">
-*STRONG*
+<b>STRONG</b>
 
 $$0.7\le|\rho|\le1.0$$
 
-*MODERATE*
+<b>MODERATE</b>
 
 $$0.3\le|\rho|<0.7$$
 
-*WEAK*
+<b>WEAK</b>
 
 $$0.0\le|\rho|<0.3$$
 </p>
