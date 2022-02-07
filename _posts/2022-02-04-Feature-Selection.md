@@ -33,7 +33,7 @@ Some useful measures of correlation are the *Pearson's correlation coefficient*,
 * $$\sigma_X$$ is the standard deviation of $$X$$
 * $$\sigma_Y$$ is the standard deviation of $$Y$$
 
-$-1\le\rho\le+1$ - The larger the absolute value of $\rho$, the more strongly correlated the two variables are. $\rho=0$ indicates no correlation, i.e., no linear dependence between the variables
+The coefficient can have values of $-1\le\rho\le+1$. The larger the absolute value of $\rho$ (i.e., closer to $\pm1$), the more strongly correlated the two variables are. $\rho=0$ indicates no correlation, i.e., no linear dependence between the variables
 
 Calculate the Pearson's correlation coefficient in python with:
 * [pandas.DataFrame.corr(method='pearson')](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html)
