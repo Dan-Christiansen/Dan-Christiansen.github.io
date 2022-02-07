@@ -49,3 +49,6 @@ Add the following to the `head` of `default.html`
 <link rel="icon" href="/images/filename.extension">
 ```
 where `filename` and `extension` are replaced by the corresponding fields of the image for the favicon. The `/` before `images/filename.extension` is important. Without this, the favicon will only be applied to the home page
+
+## Adding an image to a blog post
+Place an image on a post with `![Image caption](/images/filename.extension)`

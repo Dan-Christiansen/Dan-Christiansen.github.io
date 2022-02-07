@@ -92,3 +92,9 @@ corr_mat = data.corr()
 sns.heatmap(corr_mat)
 ```
 ![Demo correlation heatmap](/images/demo_correlation_plot.png)
+
+## Selection methods
+Python modules can be used to automatically perform feature selection. [Jason Brownlee for Machine Learning Mastery](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/) recommends the following two
+
+> * Select the top k variables: [SelectKBest](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html)
+> * Select the top percentile variables: [SelectPercentile](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectPercentile.html)
