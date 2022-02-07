@@ -91,4 +91,4 @@ corr_mat = data.corr()
 # Plot the correlation matrix as a heatmap
 sns.heatmap(corr_mat)
 ```
-![Demo correlation heatmap](./images/demo_correlation_plot.png)
+![Demo correlation heatmap](/images/demo_correlation_plot.png)
