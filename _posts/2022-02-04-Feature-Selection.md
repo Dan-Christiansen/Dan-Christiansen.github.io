@@ -69,3 +69,26 @@ $$0.0\le|\rho|<0.3$$
 
 ## Correlation plots
 Correlation plots are a visual way to represent the correlation matrix, a table showing correlation coefficients between pairs of variables on the X and Y axes
+
+Calculate the Pearson's correlation coefficient matrix of a `pandas` `dataframe` object, `df`, with `df.corr(method='pearson')` or just `df.corr()`
+
+Using the `seaborn` module, execute `seaborn.heatmat(correlation_matrix)`
+
+A full example of calculating and plotting the correlation matrix of the `sklearn` diabetes dataset
+```
+# Import modules for handling dataframes and plotting
+import pandas as pd, seaborn as sns
+
+# Import the diabetes dataset module
+from sklearn.dataseets import load_diabetes
+
+# Load the diabetes dataset into a dataframe
+data = load_diabetes(return_X_y=True, as_frame=True)[0]
+
+# Calculate the correlation matrix of the dataframe
+corr_mat = data.corr()
+
+# Plot the correlation matrix as a heatmap
+sns.heatmap(corr_mat)
+```
+![Demo correlation heatmap](demo_correlation_plot.png)
