@@ -45,7 +45,7 @@ Skills
 * **_Chemical modeling_**: GROMACS molecular dynamics, LAMMPS, Gaussian 16 quantum chemistry, Visual Molecular Dynamics (VMD), ASPEN Plus/Properties/HYSYS
 * **_Polymer science and wet lab_**: Synthesis and characterization of organic polymers. Tensile and compression testing, optical and atomic force microscopy
 * **_Data Science_**: Artificial intelligence and machine learning algorithms, statistical analysis practices, web scraping and data retrieval, experience with large datasets
-* **_Programming_**: MATLAB, Python, VBA, C/C++, Tcl, BASH, perl, Jupyter
+* **_Programming_**: MATLAB, Python, VBA, C/C++, Tcl, BASH, perl, Jupyter, HTML, CSS
 * **_Python modules_**: Scikit-Learn, pandas, numpy, orange3, multiprocessing, scipy
 * **_Cheminformatics_**: Mordred, RDKit, OpenBabel, JCHEM, SciFinder, alvaDesk
 * **_Multiprocessing and acceleration_**: TORQUE PBS, HTCondor, GPU acceleration, hardware construction for distributed and parallel systems
@@ -92,6 +92,7 @@ Presentations
 
 Service, leadership, and professional affiliations
 ======
+* Co-chair for the 2022 AIChE Midwest Regional Conference poster session
 * Theta Tau Professional Engineering Fraternity
   * Founder of Nu Epsilon Chapter, President 2015-2017
   * Host of the Southeast Regional Conference, 2018

@@ -7,6 +7,7 @@ tags:
   - python
   - anaconda
   - tutorials
+  - research
 ---
 
 ## Install `jupyter` `notebook` through `Anaconda prompt`

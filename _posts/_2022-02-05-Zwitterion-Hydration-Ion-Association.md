@@ -9,6 +9,7 @@ tags:
   - molecular dynamics
   - simulation
   - machine learning
+  - research
 ---
 ## Background
 Lowest level of the hierarchical machine learning (ML) approach to predicting ionic conductivity of zwitterionic hydrogels
