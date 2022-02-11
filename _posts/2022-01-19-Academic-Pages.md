@@ -81,3 +81,6 @@ below
  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
 {% endif %}
 ```
+
+## Decrease paragraph spacing for read time
+Within `_sass/_archive.scss`, find the '.page__meta' item under the '.list__item' selector. Decrease the `margin` value to something like '2px' from '4px'.
