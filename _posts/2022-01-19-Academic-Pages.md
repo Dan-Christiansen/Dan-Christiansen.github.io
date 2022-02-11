@@ -82,5 +82,10 @@ below
 {% endif %}
 ```
 
-## Decrease paragraph spacing for read time
-Within `_sass/_archive.scss`, find the '.page__meta' item under the '.list__item' selector. Decrease the `margin` value to something like '2px' from '4px'.
+## Remove read time
+In the `_includes` folder, remove or comment-out the following lines of `archive-single.hmtl`
+```
+{% if post.read_time %}
+  <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+{% endif %}
+```
