@@ -9,10 +9,7 @@ tags:
   - descriptor selection
 ---
 
-## Some references
-[Machine Learning Mastery](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
-
-[Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/intro-intro.html)
+Notes on feature selection techniques
 
 ## General notes
 *Supervised* feature selection techniques consider the target variable when determining variable relevance
@@ -103,3 +100,8 @@ Python modules can be used to automatically perform feature selection. [Jason Br
 > * Select the top percentile variables: [SelectPercentile](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectPercentile.html)
 
 These must be paired with a [scoring function](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection) (e.g., Pearson's correlation coefficient, chi-squared, etc.)
+
+## Some references
+[Machine Learning Mastery](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
+
+[Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/intro-intro.html)
