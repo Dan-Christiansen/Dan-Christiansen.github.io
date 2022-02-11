@@ -36,6 +36,25 @@ Conductivity is then calculated as
 
 <p style="text-align: center;">$$\sigma=\frac{e^2}{3Vk_BT}\int_{0}^{\infty}J(t)dt$$</p>
 
+## Nernst-Einstein
+Compute the mean-square displacement ($$MSD$$) of atoms or molecules from a set of initial positions
+
+<p style="text-align: center;">$$MSD\equiv<(\vec{x}(t)-\vec{x_0})^2>=\frac{1}{N}\sum_{i=1}^{N} |\vec{x}^{(i)}(t)-\vec{x}^{(i)}(0)|^2$$</p>
+
+where $$N$$ is the total number of particles (atoms/molecules) in the selection, vectors $$\vec{x}^{i}(t)$$ and $$\vec{x}^{(i)}(0)$$ are the position of the $$i$$-th particle at time $$t$$ and the reference position of the $$i$$-th particle.
+
+The command will calculate a diffusion constant, $$D$$, from $$MSD$$ according to the Einstein relation
+
+<p style="text-align: center;">$$MSD=2Dt$$</p>
+
+where $$t$$ is the simulation time used to calculate the $$MSD$$
+
+Calculating $$D$$ for cations and anions in the system ()$$D_+$$ and $$D_-$$, respectively), the ionic conductivity can be calculated by the Nernst-Einstein equation
+
+<p style="text-align: center;">$$\sigma=\frac{e^2}{Vk_BT}(N_+z_+D_++N_-z_-D_-)$$</p>
+
+where $$e$$ and $$k_B$$ are the unit charge and Boltzmann constant; $$V$$, $$T$$, $$N\pm$$, and $$z\pm$$ are the volume, temperature, number of each ionic species, and charge of the ionic species in the system.
+
 ## References
 [The Velocity Autocorrelation Function](https://www.ucl.ac.uk/~ucfbasc/Theory/vaf.html#:~:text=The%20velocity%20autocorrelation%20function%20)
 
