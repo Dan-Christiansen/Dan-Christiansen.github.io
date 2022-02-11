@@ -1,8 +1,7 @@
 ---
 title: 'Calculating Conductivity from Molecular Dynamics Simulation'
 date: 2022-02-11
-permalink: /posts/2022/02/Calculating-Conductivity
-/
+permalink: /posts/2022/02/Calculating-Conductivity/
 tags:
   - research
   - ionic conductivity
