@@ -63,7 +63,7 @@ In the `_includes` folder, remove or comment-out the following lines of `archive
 {% endif %}
 ```
 
-## Moving the read time below publication date
+## Moving the read time below publication date for blog posts
 In the `_includes` folder, move the following lines of `archive-single.hmtl`
 ```
 {% if post.read_time %}
@@ -82,7 +82,7 @@ below
 {% endif %}
 ```
 
-## Remove read time
+## Remove read time below blog post title
 In the `_includes` folder, remove or comment-out the following lines of `archive-single.hmtl`
 ```
 {% if post.read_time %}
