@@ -48,7 +48,7 @@ The command will calculate a diffusion constant, $$D$$, from $$MSD$$ according t
 
 where $$t$$ is the simulation time used to calculate the $$MSD$$
 
-Calculating $$D$$ for cations and anions in the system ()$$D_+$$ and $$D_-$$, respectively), the ionic conductivity can be calculated by the Nernst-Einstein equation
+Calculating $$D$$ for cations and anions in the system ($$D_+$$ and $$D_-$$, respectively), the ionic conductivity can be calculated by the Nernst-Einstein equation
 
 <p style="text-align: center;">$$\sigma=\frac{e^2}{Vk_BT}(N_+z_+D_++N_-z_-D_-)$$</p>
 
