@@ -52,3 +52,32 @@ where `filename` and `extension` are replaced by the corresponding fields of the
 
 ## Adding an image to a blog post
 Place an image on a post with `![Image caption](/images/filename.extension)`
+
+## Removing the description below blog posts
+In the `_includes` folder, remove or comment-out the following lines of `archive-single.html`
+```
+{% if post.excerpt and site.read_more != 'enabled' %}
+<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+{% elsif post.excerpt and site.read_more == 'enabled' %}
+<p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+{% endif %}
+```
+
+## Moving the read time below publication date
+In the `_includes` folder, move the following lines of `archive-single.hmtl`
+```
+{% if post.read_time %}
+  <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+{% endif %}
+```
+
+below
+```
+{% if post.collection == 'teaching' %}
+  <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.collection == 'publications' %}
+  <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.date %}
+ <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+{% endif %}
+```
