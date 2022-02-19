@@ -14,3 +14,17 @@ tags:
 With `Anaconda prompt` open, enter
 
 `pip install notebook`
+
+or
+
+`conda install -c conda-forge jupyterlab`
+
+## Start a `jupyter` `notebook`
+In `Anaconda prompt`, enter
+`jupyter notebook`
+
+## Remote `jupyter` `notebook`
+In `Anaconda prompt`, enter
+`jupyter notebook --no-browser --port=<choose a port>`
+
+e.g., `jupyter notebook --no-browser --port=8889`
