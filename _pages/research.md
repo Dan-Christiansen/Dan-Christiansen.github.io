@@ -32,6 +32,8 @@ Current PhD Candidate in Chemical Engineering attending the University of Illino
 ## Presentations & Posters
 
 ---
+8\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Machine Learning Prediction of Hydration and Ion Association Properties of Zwitterions_, AIChE Chicago Section Student Poster Competition, 2022, Chicago, IL.
+
 7\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Machine Learning Prediction of Hydration and Ion Association Properties of Zwitterions_, AIChE Midwest Regional Conference, 2022, Chicago, IL.
 
 6\. S. Mukhopadhyay, **D. E. Christiansen**, H. Chao, J. Claracq, F. Aguirre-Vargas, P. Cookson, B. Shuang, A. Schmidt, K. Torkelson, R. Venkatesh, X. Yu, _Machine Learning Approaches to Predict Density and Resiliency of Polyurethane Flexible Foams_, Industry 4.0 Topical Conference, 2022.
