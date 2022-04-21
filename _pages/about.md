@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to my site!"
+excerpt: "Welcome to my site!"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my site!
 
 This site will be used to store my personal projects and writing on things I am interested in.
 
