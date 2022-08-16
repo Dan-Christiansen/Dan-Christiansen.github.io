@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Science in Engineering in Chemical Engineering, Tulane University, New Orleans, 2018
-* Doctorate of Philosophy Candidate in Chemical Engineering, University of Illinois at Chicago, Chicago, 2022 (expected)
+* Doctorate of Philosophy Candidate in Chemical Engineering, University of Illinois at Chicago, Chicago, 2018-Present
 
 Work experience
 ======
@@ -23,7 +23,8 @@ Work experience
 
 * **Graduate R&D Intern (Summer 2022)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Yuri Alencar
   * Worked in a fast-pace, highly collaborative team of interns to update and implement a modularized design of the Polyurethane Predictive Intelligence capability
-  * 
+  * Responsible for effective onboarding of new interns on the team, organizing software workflow and design, and several components
+  * Presented software methods and results for multiple audiences and internally published software documentation and code
 
 * **Graduate R&D Intern (Summer 2021)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Will Koonce
   * Developed theory-based models and identified cheminformatic descriptors for input to predictive intelligence models, resulting in improved accuracy for all models
