@@ -25,11 +25,13 @@ Work experience
   * Worked in a fast-pace, highly collaborative team of interns to update and implement a modularized design of the Polyurethane Predictive Intelligence capability
   * Responsible for effective onboarding of new interns on the team, organizing software workflow and design, and several components
   * Presented software methods and results for multiple audiences and internally published software documentation and code
+  * Completed the 2022 American Institute of Chemical Engineers (AIChE) Data Analytics Internship Program
 
 * **Graduate R&D Intern (Summer 2021)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Will Koonce
   * Developed theory-based models and identified cheminformatic descriptors for input to predictive intelligence models, resulting in improved accuracy for all models
   * Created a uniform data structure for chemical identification and programmed descriptor calculations using open-source software which may be included in existing architectures
   * Worked with co-interns to schedule, organize, and present monthly progress updates for corporate sponsors
+  * Completed the 2021 American Institute of Chemical Engineers (AIChE) Data Analytics Internship Program pilot
 
 * **Undergraduate Research Assistant (Spring 2016-Spring 2018)** - Tulane University Chemical and Biomolecular Engineering Department, Supervised by Julie N. L. Albert, PhD
   * Performed raster solvent vapor annealing on semicrystalline homopolymer thick films to induce change in optical and mechanical properties
