@@ -21,7 +21,7 @@ Current PhD Candidate in Chemical Engineering attending the University of Illino
 
 ---
 
-4\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Hydration and ion interactions of zwitterionic homopolymers with varying carbon spacer lengths", Chemical Engineering Journal, (_in-review_), 2021.
+4\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Hydration and ion interactions of zwitterionic homopolymers with varying carbon spacer lengths", [_Chemical Engineering Research and Design_](https://www.sciencedirect.com/science/article/abs/pii/S0263876222003811), 186, 2022.
 
 3\. H. Wang, X. Liu, **D. E. Christiansen**, S. Fattahpour, K. Wang, H. Song, S. Mehraeen, G. Cheng, "Thermoplastic polyurethane with controllable degradation and critical anti-fouling properties", [_Biomaterials Science_](https://pubs.rsc.org/en/content/articlelanding/2021/bm/d0bm01967d), 9, 2021.
 
@@ -32,6 +32,8 @@ Current PhD Candidate in Chemical Engineering attending the University of Illino
 ## Presentations & Posters
 
 ---
+9\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Multiscale machine learning approach to modeling structure-property relationships of polybetaines_, ACS Fall Conference, Chemical Information Division, 2022 (Accepted for oral presentation; Invited for poster presentation at Sci-Mix)
+
 8\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Machine Learning Prediction of Hydration and Ion Association Properties of Zwitterions_, AIChE Chicago Section Student Poster Competition, 2022, Chicago, IL.
 
 7\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Machine Learning Prediction of Hydration and Ion Association Properties of Zwitterions_, AIChE Midwest Regional Conference, 2022, Chicago, IL.

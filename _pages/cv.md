@@ -21,7 +21,11 @@ Work experience
   * Received the Graduate Student Research Award from the University of Illinois at Chicago
   * Mentored several undergaduate students as part of UIC Guaranteed Paid Internship Program
 
-* **Graduate Intern (Summer 2021)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Will Koonce
+* **Graduate R&D Intern (Summer 2022)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Yuri Alencar
+  * Worked in a fast-pace, highly collaborative team of interns to update and implement a modularized design of the Polyurethane Predictive Intelligence capability
+  * 
+
+* **Graduate R&D Intern (Summer 2021)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Will Koonce
   * Developed theory-based models and identified cheminformatic descriptors for input to predictive intelligence models, resulting in improved accuracy for all models
   * Created a uniform data structure for chemical identification and programmed descriptor calculations using open-source software which may be included in existing architectures
   * Worked with co-interns to schedule, organize, and present monthly progress updates for corporate sponsors
@@ -41,13 +45,13 @@ Work experience
 
 Skills
 ======
-* **_Data Science_**: Artificial intelligence and machine learning algorithms, statistical analysis practices, web scraping and data retrieval, experience with large datasets
+* **_Data Science_**: Data analysis and visualization, machine learning regression, statistical analysis practices, web scraping and data retrieval, experience with large datasets
 * **_Chemical modeling_**: GROMACS molecular dynamics, LAMMPS, Gaussian 16 quantum chemistry, Visual Molecular Dynamics (VMD), ASPEN Plus/Properties/HYSYS
 * **_Polymer science and wet lab_**: Synthesis and characterization of organic polymers. Tensile and compression testing, optical and atomic force microscopy
-* **_Data Science_**: Artificial intelligence and machine learning algorithms, statistical analysis practices, web scraping and data retrieval, experience with large datasets
-* **_Programming_**: MATLAB, Python, VBA, C/C++, Tcl, BASH, perl, Jupyter, HTML, CSS
-* **_Python modules_**: Scikit-Learn, pandas, numpy, orange3, multiprocessing, scipy
+* **_Programming_**: Python, MATLAB, VBA, C/C++, Tcl, BASH, perl, Jupyter, HTML, CSS
+* **_Python modules_**: Scikit-Learn, pandas, numpy, orange3, multiprocessing, scipy, matplotlib, plotly, streamlit
 * **_Cheminformatics_**: Mordred, RDKit, OpenBabel, JCHEM, SciFinder, alvaDesk
+* **_Software_**: git, github, orange3
 * **_Multiprocessing and acceleration_**: TORQUE PBS, HTCondor, GPU acceleration, hardware construction for distributed and parallel systems
 * **_Soft Skills_**: Technical writing, editing, teaching, presenting, data management and visualization, grant and resume writing, leadership of non- and for-profit organizations
 * **_Coursework_**: Polymer science, Nanotechnology, Machine Learning, Data Science, Artificial Intelligence, Numerical Analysis (Finite Differences, Elements, and Volumes), Process Control, Advanced Thermodynamics, Fluid Dynamics, Colloid Interfacial Phenomenon, Data Management, Technical Writing
