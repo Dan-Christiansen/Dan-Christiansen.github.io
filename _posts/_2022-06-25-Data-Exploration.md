@@ -33,7 +33,7 @@ Next we ask, is any data missing?
 
 ### Data Visualization
 
-### Statistical techniques
+### Statistical analysis
 
 ## Monovariate visualization
 
