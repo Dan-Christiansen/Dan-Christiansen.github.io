@@ -32,7 +32,7 @@ Current PhD Candidate in Chemical Engineering attending the University of Illino
 ## Presentations & Posters
 
 ---
-9\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Multiscale machine learning approach to modeling structure-property relationships of polybetaines_, ACS Fall Conference, Chemical Information Division, 2022 (Accepted oral presentation; Invited to represent the ACS Division of Chemical Information at Sci-Mix) - [Link to poster](/images/2022_SciMix_Poster.PNG)
+9\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Multiscale machine learning approach to modeling structure-property relationships of polybetaines_, ACS Fall Conference, Chemical Information Division, 2022 (Accepted oral presentation; Invited to represent the ACS Division of Chemical Information at Sci-Mix) - [Link to poster](/images/2022_SciMix_Poster.PNG) [Link to seminar](/files/2022_Fall_ACS_Seminar.pdf)
 
 8\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Machine Learning Prediction of Hydration and Ion Association Properties of Zwitterions_, AIChE Chicago Section Student Poster Competition, 2022, Chicago, IL.
 
