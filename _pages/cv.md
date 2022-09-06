@@ -105,6 +105,7 @@ Service, leadership, and professional affiliations
   * Host of the Southeast Regional Conference, 2018
 * University of Illinois at Chicago Graduate Association of Chemical Engineers
   * President 2020-2021
+* Member of the University of Illinois at Chicago Graduate Student Association representing the Department of Chemical Engineering
 * Society of Women Engineers
   * Mentor of the Semester, Fall 2018
 * American Institute of Chemical Engineers

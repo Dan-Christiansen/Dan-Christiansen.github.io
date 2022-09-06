@@ -10,6 +10,14 @@ tags:
 
 Autocorrelation is the correlation between values of a process (i.e., signal) with a copy of itself as a function of delay
 
+## Uses
+
+Effective residence time
+
+Self diffusion coefficient
+
+Ionic conductivity
+
 ## References
 [Box, G.E.P. and Jenkins, G.M. (1976) Time Series Analysis: Forecasting and Control. Revised Edition, Holden Day, San Francisco](http://garfield.library.upenn.edu/classics1989/A1989AV48500001.pdf)
 

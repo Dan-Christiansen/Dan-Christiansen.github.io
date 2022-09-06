@@ -8,4 +8,16 @@ tags:
   - research
 ---
 
+## Graph representations
+
+## Linear representations
+
+### SMILES
+
 SMILES is a linear notation to convert molecular structures into a computer-readable format
+
+### BigSMILES
+
+### HELM
+
+## References
