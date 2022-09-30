@@ -1,7 +1,7 @@
 ---
 title: "Data science in chemical industries"
 collection: teaching
-type: "Undergraduate/Graduate course"
+type: "Undergraduate/Graduate workshop series"
 permalink: /teaching/2022-Data-science-in-chemical-industries
 venue: "University of Illinois at Chicago"
 date: 2022-09-27
