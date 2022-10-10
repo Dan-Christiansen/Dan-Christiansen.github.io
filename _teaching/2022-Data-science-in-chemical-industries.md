@@ -10,7 +10,7 @@ location: "Chicago, US"
 
 Series of python-intensive workshops designed to teach data science subjects to chemistry-minded students
 
-[Introduction to python programming](https://colab.research.google.com/github/Dan-Christiansen/Data-science-in-chemical-industries/blob/main/Introduction_To_Python.ipynb)
+[Introduction to python programming](https://drive.google.com/file/d/1KCikQEaAPZaVsILs9a2kHRPHbo5Ij14M/view?usp=sharing)
 ======
 Open-access workshop to teach the fundamentals of python programming to a general audience. This workshop is written in a Jupyter Notebook on Google Colab, so no software needs to be installed, and the workbook may be opened on computers, tablets, and smartphones.
 

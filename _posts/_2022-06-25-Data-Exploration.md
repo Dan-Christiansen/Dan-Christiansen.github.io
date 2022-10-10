@@ -35,7 +35,7 @@ Next we ask, is any data missing?
 
 ### Statistical analysis
 
-## Monovariate visualization
+## Monovariate Analysis
 
 ### Tables
 
@@ -43,27 +43,52 @@ Next we ask, is any data missing?
 
 ### Box plots
 
-## Bivariate visualization
+## Bivariate analysis
 
 ### Scatter plots
 
 ### Correlation
 
-## Multivariate visualization
+## Multivariate analysis
 
-### Higher-dimensional scatter plots
+Examining data with more than two variables. 
 
-### Correlation matrices & heat maps
+### Dependence and interdependence
+
+#### Dependence
+
+Understanding the effect of independent variables on dependent variables.
+
+#### Interdependence
+
+Understanding trends within the data, regardless of relationships to other variables.
+
+### Higher-dimensional visualization
+
+#### 3D scatter plots
+
+#### Correlation matrices & heat maps
+
+While exploring higher-dimensional systems, it may be useful at times to examine pairs of variables.
 
 ### Clustering
 
+### Dimensionality reduction
+
 ## Interactive data visualization
 
-### Python modules
-- pandas
-- matplotlib
-- plotly
-- seaborn
+
+
+## The "Common Sense" questions
+
+Often, it can be practical to think about the data beyond statistics and models. Does the data look how you expect it should? It can be useful to spend time with data and ask simple questions.
+
+* Is the range of a variable appropriate (or realistic)?
+* Do the shapes of my plots seem correct?
+* Are there existing models I can compare with?
+* What are the properties of outliers? Should they be there?
+
+These questions usually need some domain expertise, so read more into the background of the data or ask questions from someone knowledgeable about the subject.
 
 ## References
 
@@ -72,3 +97,5 @@ Next we ask, is any data missing?
 [What Is Data Visualization? Definition, Examples, And Learning Resources](https://www.tableau.com/learn/articles/data-visualization)
 
 [Making Sense of Data with R by Yi Shang (2022)](https://bookdown.org/yshang/book/)
+
+[An Introduction to Multivariate Analysis by Emily Stevens](https://careerfoundry.com/en/blog/data-analytics/multivariate-analysis/)
