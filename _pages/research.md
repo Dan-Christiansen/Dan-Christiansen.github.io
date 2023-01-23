@@ -20,9 +20,9 @@ Current PhD Candidate in Chemical Engineering attending the University of Illino
 ## Publications
 
 ---
-6\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Influence of steric effects on the hydration of zwitterions" (_In Preparation_)
+6\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Influence of steric effects on the hydration of zwitterions" (_In Preparation_), 2022.
 
-5\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Prediction of zwitterion hydration and ion association properties using machine learning", _Soft Matter_ (_In Review_)
+5\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Prediction of zwitterion hydration and ion association properties using machine learning", _Soft Matter_ (_In Review_), 2022.
 
 4\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Hydration and ion interactions of zwitterionic homopolymers with varying carbon spacer lengths", [_Chemical Engineering Research and Design_](https://www.sciencedirect.com/science/article/abs/pii/S0263876222003811), 186, 2022.
 
