@@ -22,14 +22,14 @@ Project & Work Experience
   * President of the Chemical Engineering Graduate Student Association, co-chair of the Chemical Engineering Department's committee on diversity and inclusion, founder of the Graduate Seminar Series and Data Science in Chemical Industries workshop series, organized Department Graduate Research Symposium
   * Graduate coursework includes advanced chemical engineering concepts, machine learning, statistics, data science, numerical analysis, data management, and technical writing
 
-* **R&D Data Science Intern (Summer 2022)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Yuri Alencar
+* **R&D Digital Innovation Intern (Summer 2022)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Yuri Alencar
   * Worked in a fast-pace, highly collaborative team of interns and research scientists to update and implement a modularized design of the Polyurethane Predictive Intelligence capability
   * Responsible for software management, design of several internal components, and effective onboarding of new interns
   * Lead author of project learning report on developed software in "Dow Research and Intelligent Formulation Toolkit V.1.0 - Machine learning prediction of polyurethane material properties"
   * Completed the 2022 AIChE Academy Data Analytics Internship program
 
 
-* **R&D Data Science Intern (Summer 2021)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Will Koonce
+* **R&D Digital Innovation Intern (Summer 2021)** - Dow Chemical Data Science Internship, Supervised by Fabio Aguirre, Will Koonce
   * Developed chemical and physical theory-based models and identified cheminformatic descriptors for input to predictive intelligence models, resulting in improved model accuracy
   * Created a uniform data structure for chemical identification and programmed descriptor calculations using open-source software which may be included in existing architectures
   * Worked with co-interns to schedule, organize, and present monthly progress updates for corporate sponsors. Co-author of a conference publication and patent application in preparation
