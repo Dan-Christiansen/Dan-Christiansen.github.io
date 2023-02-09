@@ -26,9 +26,9 @@ Added some notes to the [Host The Toast recipe](https://hostthetoast.com/best-ch
 * 1 teaspoon salt
 
 *Wet*
-* 1.5 sticks butter (not margarine), melted and cool
+* 1 &frac12; sticks butter (not margarine), melted and cool
 * 1 cup brown sugar, lightly packed
-* 0.5 cup granulated sugar
+* &frac12; cup granulated sugar
 * 2 large eggs
 * 2 teaspoons vanilla extract
 
@@ -46,8 +46,8 @@ Added some notes to the [Host The Toast recipe](https://hostthetoast.com/best-ch
 1. Slowly pour in the dry ingredients while mixing. Mix until no flour clumps remain
 1. Fold in chocolate chips
 1. Cover the bowl and refrigerate for at least half an hour. During this time, preheat oven to 350&deg;F with racks in the middle of the oven
-1. Line baking tray(s) with parchment paper. Scoop &quarter; cup dough into balls and place at least 2-3" from neighbors on tray
-1. Place tray(s) in oven. Bake for 6 minutes, rotate trays 180&degrees;, then bake another 6 minutes
+1. Line baking tray(s) with parchment paper. Scoop &frac14; cup dough into balls and place at least 2-3" from neighbors on tray
+1. Place tray(s) in oven. Bake for 6 minutes, rotate trays 180&deg;, then bake another 6 minutes
 1. After the second interval, check the color of the cookies. They should be golden and a deeper brown on the edges. They may need another 1-3 minutes
 1. Once done, remove tray(s) from oven and let cool on tray
 
