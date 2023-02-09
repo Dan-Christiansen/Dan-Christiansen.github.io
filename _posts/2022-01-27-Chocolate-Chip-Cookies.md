@@ -26,11 +26,13 @@ Added some notes to the [Host The Toast recipe](https://hostthetoast.com/best-ch
 * 1 teaspoon salt
 
 *Wet*
-* 1 &half; sticks butter (not margarine), melted and cool
+* 1.5 sticks butter (not margarine), melted and cool
 * 1 cup brown sugar, lightly packed
-* &half; cup granulated sugar
+* 0.5 cup granulated sugar
 * 2 large eggs
 * 2 teaspoons vanilla extract
+
+12 oz. chocolate chips
 
 ## Comments
 * *Immediately melt the butter so it will have time to cool*
