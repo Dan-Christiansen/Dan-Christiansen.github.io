@@ -20,6 +20,8 @@ Current PhD Candidate in Chemical Engineering attending the University of Illino
 ## Publications
 
 ---
+7\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning", Doctoral Thesis, 2023.
+
 6\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Influence of steric effects on the hydration of zwitterions" (_In Preparation_), 2023.
 
 5\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Prediction of zwitterion hydration and ion association properties using machine learning", _Soft Matter_ (_In Review_), 2023.
