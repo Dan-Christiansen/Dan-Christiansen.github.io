@@ -20,7 +20,7 @@ Project & Work Experience
 * **R&D Data Scientist (2023-Present)** - Dow Polyurethanes
 
 * **Graduate Research Scientist (2018-2023)** - University of Illinois at Chicago, Supervised by Shafigh Mehraeen, PhD, and Gang Cheng, PhD
-  * Thesis completed on "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning"
+  * Thesis titled "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning"
   * Conducted dissertation research on structure-property relationships of polybetaines using computational simulations, data analysis, and machine learning techniques
   * First author and co-author for several peer-reviewed publications and a textbook chapter. Presented accepted and invited posters and talks at several regional and national conferences
   * President of the Chemical Engineering Graduate Student Association, co-chair of the Chemical Engineering Department's committee on diversity and inclusion, founder of the Graduate Seminar Series and Data Science in Chemical Industries workshop series, organized Department Graduate Research Symposium
