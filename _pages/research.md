@@ -15,11 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
-Current PhD Candidate in Chemical Engineering attending the University of Illinois at Chicago, studying structure-property relationships of polybetaines under Shafigh Mehraeen and Gang Cheng in the [Molecular Simulations Laboratory](tranzabi.people.uic.edu). In my work, I perform multiscale computational simulations of polybetaines and apply machine learning techniques to understand how molecular features influence macroscopic properties.
-
 ## Publications
 
 ---
+<!-- 7\. **D. E. Christiansen**, J. Claracq, S. Mukhopadhyay, "Advanced ingredient and formulation descriptors", The Digital Transformation of Product Formulation, 2024. -->
+
 6\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning", Doctoral Thesis, 2023.
 
 <!-- 6\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Influence of steric effects on the hydration of zwitterions" (_In Preparation_), 2023. -->
@@ -37,6 +37,8 @@ Current PhD Candidate in Chemical Engineering attending the University of Illino
 ## Presentations & Posters
 
 ---
+10\. **D. E. Christiansen**, F. Aguirre-Vargas, S. Mukhopadhyay, A. Pradhan, _Methodologies for the Inverse Design of Polyurethane Foam Materials_, AIChE Spring Conference, Industry 4.0 Topical Conference, 2024.
+
 9\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Multiscale machine learning approach to modeling structure-property relationships of polybetaines_, ACS Fall Conference, Chemical Information Division, 2022 (Accepted oral presentation; Invited to represent the ACS Division of Chemical Information at Sci-Mix) - [Link to poster](/images/2022_SciMix_Poster.PNG) [Link to seminar](/files/2022_Fall_ACS_Seminar.pdf)
 
 8\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, _Machine Learning Prediction of Hydration and Ion Association Properties of Zwitterions_, AIChE Chicago Section Student Poster Competition, 2022, Chicago, IL.
