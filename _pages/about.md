@@ -16,4 +16,4 @@ Previously, I completed my doctoral degree in chemical engineering at the Univer
 
 While not studying or working, I enjoy trying new coffee shops, visiting art galleries, and running.
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/117631436/activity-summary/c90bee218496e81d1263914a41062d5dc1fbd029'></iframe>
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/117631436/latest-rides/c90bee218496e81d1263914a41062d5dc1fbd029'></iframe>
