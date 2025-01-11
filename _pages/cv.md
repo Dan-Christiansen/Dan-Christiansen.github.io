@@ -22,7 +22,9 @@ Project & Work Experience
     * Lead the planning and execution of projects to enhance analytics capabilities and deliver business value through digital solutions
     * Develop and implement machine learning, artificial intelligence, and other digital solutions to address complex formulation and business challenges
     * Coordinate cross-functional collaborations between digital and experimental teams to identify opportunities, define needs, and apply innovative digital solutions effectively
-  * Member of the Industrial Intermediates & Infrastructure Learning Team leading the Digital Academy, Digital Innovation Internship Program Management Team
+  * Member of:
+    * Industrial Intermediates & Infrastructure Learning Team leading the Digital Academy
+    * Digital Innovation Internship Program Management Team
 
 * **Graduate Research Scientist (2018-2023)** - University of Illinois at Chicago, Supervised by Shafigh Mehraeen, PhD, and Gang Cheng, PhD
   * Thesis titled "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning"
