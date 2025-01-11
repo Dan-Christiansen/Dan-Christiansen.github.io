@@ -114,8 +114,8 @@ Presentations
 Service, leadership, and professional affiliations
 ======
 * Dow Chemical
-  * Industrial Intermediates & Infrastructure Learning Team leading the Digital Academy
-  * Digital Innovation Internship Program Management Team
+  * Industrial Intermediates & Infrastructure Learning Team leading the Digital Academy 2024-Present
+  * Digital Innovation Internship Program Management Team 2024-Present
 * AIChE Midwest Regional Conference
   * Co-chair of 2023 General Arrangements Committee
   * Co-chair of 2022 poster session
@@ -123,7 +123,7 @@ Service, leadership, and professional affiliations
   * Founder of Nu Epsilon Chapter, President 2015-2017
   * Host of the Southeast Regional Conference, 2018
 * University of Illinois at Chicago Graduate Association of Chemical Engineers
-  * President 2020-2021, 2022-Present
+  * President 2020-2021, 2022-2023
   * Organized 2022 Department Research Symposium, Graduate Seminar Series, Preliminary Exam workshop, Data Science in Chemical Industries workshop series
 * Member of the University of Illinois at Chicago Graduate Student Association representing the Department of Chemical Engineering
 * Society of Women Engineers
