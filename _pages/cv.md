@@ -17,7 +17,7 @@ Education
 Project & Work Experience
 ======
 
-* **R&D Data Scientist (2023-Present)** - Dow Polyurethanes
+* **R&D Data Scientist (2023-Present)** - Dow Chemical, Polyurethanes Product R&D
   * Global analytics focal point for the Predictive Intelligence platform
     * Lead the planning and execution of projects to enhance analytics capabilities and deliver business value through digital solutions
     * Develop and implement machine learning, artificial intelligence, and other digital solutions to address complex formulation and business challenges
