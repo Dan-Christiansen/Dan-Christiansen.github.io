@@ -22,9 +22,9 @@ Project & Work Experience
     * Lead the planning and execution of projects to enhance analytics capabilities and deliver business value through digital solutions
     * Develop and implement machine learning, artificial intelligence, and other digital solutions to address complex formulation and business challenges
     * Coordinate cross-functional collaborations between digital and experimental teams to identify opportunities, define needs, and apply innovative digital solutions effectively
-  * Member of:
-    * Industrial Intermediates & Infrastructure Learning Team leading the Digital Academy
-    * Digital Innovation Internship Program Management Team
+  * Lead digital internship projects for Polyurethanes R&D
+    * Coordinate project funding, recruitment, and chartering for projects to advance digital technologies
+    * Lead 6 projects spanning reinforcement learning, optimization, web app development, data and modeling pipeline automation
 
 * **Graduate Research Scientist (2018-2023)** - University of Illinois at Chicago, Supervised by Shafigh Mehraeen, PhD, and Gang Cheng, PhD
   * Thesis titled "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning"
@@ -61,10 +61,10 @@ Project & Work Experience
 
 Skills
 ======
-* **_Data Science_**: Data analysis and visualization, machine learning regression, statistical analysis practices, web scraping and data retrieval, experience with large datasets
+* **_Data Science_**: Data analysis and visualization, supervised machine learning, LLMs for chatbots, advanced statistics, web scraping and data retrieval, experience with large datasets
+* **_Programming_**: Python, MATLAB, VBA, BASH, perl, HTML, CSS
 * **_Chemical modeling_**: GROMACS molecular dynamics, LAMMPS, Gaussian 16 quantum chemistry, Visual Molecular Dynamics (VMD), ASPEN Plus/Properties/HYSYS
 * **_Polymer science and wet lab_**: Synthesis and characterization of organic polymers. Tensile and compression testing, optical and atomic force microscopy
-* **_Programming_**: Python, MATLAB, VBA, Tcl, BASH, perl, HTML, CSS
 * **_Selected python modules_**: Scikit-Learn, pandas, numpy, orange3, multiprocessing, scipy, matplotlib, plotly, streamlit
 * **_Cheminformatics_**: Mordred, RDKit, OpenBabel, JCHEM, SciFinder, alvaDesk
 * **_Software_**: git, github, Jupyter Notebook, orange3, Avogadro, VSCode, MS Office
@@ -113,6 +113,9 @@ Presentations
 
 Service, leadership, and professional affiliations
 ======
+* Dow Chemical
+  * Industrial Intermediates & Infrastructure Learning Team leading the Digital Academy
+  * Digital Innovation Internship Program Management Team
 * AIChE Midwest Regional Conference
   * Co-chair of 2023 General Arrangements Committee
   * Co-chair of 2022 poster session
@@ -132,6 +135,7 @@ Service, leadership, and professional affiliations
 
 Awards
 ======
+* Edison Gold Award for Digital Transformation and Governance, 2024
 * Award for Graduate Research, University of Illinois at Chicago, 2020
 * Dean's Grant, Tulane University, 2017
 * Silver Award, Venturing, BSA, 2014
