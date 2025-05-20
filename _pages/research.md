@@ -18,7 +18,7 @@ author_profile: true
 ## Publications
 
 ---
-<!-- 7\. **D. E. Christiansen**, J. Claracq, S. Mukhopadhyay, "Advanced ingredient and formulation descriptors", The Digital Transformation of Product Formulation, 2024. -->
+7\. **D. E. Christiansen**, J. Claracq, S. Mukhopadhyay, "Feature Engineering: Enhancing Your Data with Descriptors", The Digital Transformation of Product Formulation, 2024.
 
 6\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning", Doctoral Thesis, 2023.
 
