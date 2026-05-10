@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Data Science Manager with Dow Chemical's Analytics & AI Hub Team. Previously an R&D Data Scientist for the Polyurethanes business developing the [Predictive Intelligence](https://www.dow.com/en-us/product-technology/pt-polyurethanes/harnessing-the-power-of-digitalization.html) capability.
+I am a Data Science Manager with Dow Chemical's Analytics & AI Hub Team. Previously an R&D Data Scientist for the Polyurethanes business developing the [Predictive Intelligence](https://www.dow.com/en-us/product-technology/pt-polyurethanes/harnessing-the-power-of-digitalization.html) capability.
 
 Before joining Dow, I completed my doctoral degree in chemical engineering at the University of Illinois at Chicago with my thesis "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning". My research examined structure-property relationships of zwitterions using molecular simulations, cheminformatics, and data science techniques.
 
