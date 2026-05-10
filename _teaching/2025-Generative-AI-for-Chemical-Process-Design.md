@@ -9,7 +9,6 @@ location: "New Orleans, US"
 ---
 
 Lecture on the use of generative artificial intelligence (GenAI) in chemical process design.
-
 ======
 Generative artificial intelligence (GenAI) is rapidly emerging as a powerful new tool in chemical engineering, with the potential to fundamentally change how chemical processes are designed, documented, and evaluated. Unlike traditional machine-learning approaches focusing on prediction or optimization within predefined structures, GenAI models can generate new content—such as process flow diagrams, equipment specifications, design alternatives, and documentation—directly from learned patterns in historical data and engineering knowledge bases.
 
