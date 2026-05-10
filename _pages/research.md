@@ -18,6 +18,8 @@ author_profile: true
 ## Publications
 
 ---
+8\. L. Chiang, **D. Christiansen**, M. R. Malloure, L. Briceno-Mena, S. H. Kim, "Artificial intelligence at scale in the chemical industry: from legacy to leadership", [Current Opinion in Chemical Engineering](https://www.sciencedirect.com/science/article/abs/pii/S2211339826000043), 51, 2026.
+
 7\. **D. E. Christiansen**, J. Claracq, S. Mukhopadhyay, "Feature Engineering: Enhancing Your Data with Descriptors", The Digital Transformation of Product Formulation, 2024.
 
 6\. **D. E. Christiansen**, G. Cheng, S. Mehraeen, "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning", Doctoral Thesis, 2023.
