@@ -36,6 +36,11 @@ author_profile: true
 
 1\. **D. E. Christiansen**, S. Mehraeen, "Impact of active layer morphology, density of states, charge carrier concentration, and local charge density fluctuations on bimolecular recombination of bulk heterojunction solar cells: A theoretical perspective", [_IntechOpen_](https://www.intechopen.com/chapters/66902), ISBN: 978-1-78984-742-0, 2019.
 
+## Granted & Pending Patents
+
+---
+1\. (Pending) [Evolutionary algorithm for inverse design of polyurethane formulations](https://patentscope.wipo.int/search/en/WO2025198841), Application Number PCT/US2025/018322.
+
 ## Presentations & Posters
 
 ---
