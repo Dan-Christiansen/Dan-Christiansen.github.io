@@ -16,15 +16,19 @@ Education
 
 Project & Work Experience
 ======
+* **Data Science Manager (2026-Present)** - Dow Chemical, Analytics & AI Hub
+  *  Lead development of simulation, forecasting, and agentic AI capabilities across supply chain, commercial, and operations segments, expanding the  team’s solution portfolio to address increasingly complex business challenges
+  * Drive adoption of modern enterprise platforms (cloud, Databricks-based workflows) with emphasis on cost efficiency, governance, reproducibility, and long-term maintainability
+  * Shape company-wide AI strategy and capability by founding and leading the Databricks community of practice (~100 members), evaluating emerging technologies, and mentoring early-career data scientists
 
-* **R&D Data Scientist (2023-Present)** - Dow Chemical, Polyurethanes Product R&D
+* **R&D Data Scientist (2023-2026)** - Dow Chemical, Polyurethanes Product R&D
   * Global analytics focal point for the Predictive Intelligence platform
-    * Lead the planning and execution of projects to enhance analytics capabilities and deliver business value through digital solutions
-    * Develop and implement machine learning, artificial intelligence, and other digital solutions to address complex formulation and business challenges
-    * Coordinate cross-functional collaborations between digital and experimental teams to identify opportunities, define needs, and apply innovative digital solutions effectively
+    * Planned and executed a portfolio of analytics and AI projects delivering digital solutions for revenue-critical applications, driving measurable business value through improved product design and performance
+    * Developed and deployed generative AI, ML, graph modeling, and other advanced digital solutions to address complex product design and business intelligence challenges
+    * Coordinated cross-functional collaborations between digital and experimentalteams to identify opportunities, align on needs, and deliver innovative digital solutions at scale
   * Lead digital internship projects for Polyurethanes R&D
     * Coordinate project funding, recruitment, and chartering for projects to advance digital technologies
-    * Lead 6 projects spanning reinforcement learning, optimization, web app development, data and modeling pipeline automation
+    * Lead 9 projects spanning agentic AI, reinforcement learning, optimization, web app development, data and modeling pipeline automation
 
 * **Graduate Research Scientist (2018-2023)** - University of Illinois at Chicago, Supervised by Shafigh Mehraeen, PhD, and Gang Cheng, PhD
   * Thesis titled "Zwitterion Hydration and Ion Association Design Principles Elucidated by Simulation and Machine Learning"
@@ -67,7 +71,7 @@ Skills
 * **_Polymer science and wet lab_**: Synthesis and characterization of organic polymers. Tensile and compression testing, optical and atomic force microscopy
 * **_Selected python modules_**: Scikit-Learn, pandas, numpy, orange3, multiprocessing, scipy, matplotlib, plotly, streamlit
 * **_Cheminformatics_**: Mordred, RDKit, OpenBabel, JCHEM, SciFinder, alvaDesk
-* **_Software_**: git, github, Jupyter Notebook, orange3, Avogadro, VSCode, MS Office
+* **_Software_**: git, github, Databricks, Azure DevOps, Jupyter Notebook, orange3, Avogadro, VSCode, MS Office
 * **_Multiprocessing and acceleration_**: TORQUE PBS, HTCondor, GPU acceleration, hardware construction for distributed and parallel systems
 * **_Soft Skills_**: Technical writing, editing, teaching, presenting, data management and visualization, grant and resume writing, leadership of non- and for-profit organizations
 * **_Coursework_**: Polymer science, Nanotechnology, Machine Learning, Data Science, Artificial Intelligence, Numerical Analysis (Finite Differences, Elements, and Volumes), Process Control, Advanced Thermodynamics, Fluid Dynamics, Colloid Interfacial Phenomenon, Data Management, Technical Writing
@@ -113,8 +117,12 @@ Presentations
 
 Service, leadership, and professional affiliations
 ======
+* Tulane Uiversity Early Career Advisory Council 2025-Present
+* Tulane University Theta Tau Alumni Board 2026-Present
+  * Founder
 * Dow Chemical
-  * Industrial Intermediates & Infrastructure Learning Team leading the Digital Academy 2024-Present
+  * R&D Data Science Council 2025-2026
+  * Industrial Intermediates & Infrastructure Learning Team leading the Digital Academy 2024-2026
   * Digital Innovation Internship Program Management Team 2024-Present
 * AIChE Midwest Regional Conference
   * Co-chair of 2023 General Arrangements Committee
